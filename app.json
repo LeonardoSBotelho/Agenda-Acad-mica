@@ -1,0 +1,38 @@
+{
+  "expo": {
+    "name": "Agenda Acadêmica",
+    "slug": "agenda-academica",
+    "scheme": "agendaacademica",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#6366F1"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.agendaacademica.app"
+    },
+    "android": {
+      "package": "com.agendaacademica.app",
+      "adaptiveIcon": {
+        "backgroundColor": "#6366F1"
+      }
+    },
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "340d0e3a-0f5a-4ce7-bace-e5af1caa77b3"
+      }
+    }
+  }
+}
