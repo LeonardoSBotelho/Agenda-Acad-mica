@@ -4,7 +4,7 @@ Estudantes costumam lidar com múltiplas disciplinas, prazos de atividades, data
 
 O app calcula automaticamente médias e situação (Aprovado/Recuperação/Reprovado), organiza compromissos futuros em um calendário unificado e resume tudo em um dashboard inicial.
 
-✅ Status: projeto completo — todas as funcionalidades mínimas do escopo foram implementadas, com npx tsc --noEmit passando sem erros.
+✅ Status: projeto completo — todas as funcionalidades mínimas do escopo foram implementadas.
 
 ✨ Funcionalidades
 Módulo	O que faz
